@@ -1,3 +1,5 @@
 # Dlp_printer
-creating dlp 3d printer
+
 ## Part list 
+* Stm32f103
+* St7735
